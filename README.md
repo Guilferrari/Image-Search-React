@@ -1,8 +1,9 @@
-Image Search
+#Image Search
 
 With this application it's possible searching images, was made in React.
 
-Local Run
+##Local Run
+
 Download or clone the repository.
 
 Open a command-prompt.
